@@ -1,16 +1,9 @@
-# food_delivery_app_case_study
+# Mobile Code Challenge Flutter Solution
 
-A new Flutter project.
+<img src="https://img.shields.io/badge/made%20with-dart-blue.svg" alt="made with dart">
 
-## Getting Started
+The task is to implement a food delivery app to let the user browse meals and add meals to his favourite page and to add meals to cart.
 
-This project is a starting point for a Flutter application.
+## Screenshot
+<img src="https://github.com/Abdullah-Jacksi/food_delivery_app_case_study/blob/master/screenshots/1.jpeg" width="300" /> <img src="https://github.com/Abdullah-Jacksi/food_delivery_app_case_study/blob/master/screenshots/2.jpeg" width="300" /> <img src="https://github.com/Abdullah-Jacksi/food_delivery_app_case_study/blob/master/screenshots/3.jpeg" width="300" /> <img src="https://github.com/Abdullah-Jacksi/food_delivery_app_case_study/blob/master/screenshots/4.jpeg" width="300" />
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

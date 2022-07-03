@@ -35,7 +35,7 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
 
-  # state management
+  # for state management
   provider: ^6.0.3
 
   # HTTP requests
@@ -50,6 +50,7 @@ dependencies:
   # to compare objects
   equatable: ^2.0.0
 
+  # for dependency injection
   get_it: ^7.2.0
 
 
