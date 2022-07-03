@@ -73,7 +73,7 @@ The lib folder is divided into three folders; core, ui, and config. Core contain
 
 
 ## Plugins used ##
-- provider: ^6.0.3___________________// for state management
+- provider: ^6.0.3                   // for state management
 - http: ^0.13.4 _____________________// HTTP requests
 - cached_network_image: ^3.2.1_______// to show and cache images
 - shared_preferences: ^2.0.15________// as local database
