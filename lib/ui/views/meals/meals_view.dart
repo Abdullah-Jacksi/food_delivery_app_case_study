@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:food_delivery_app_case_study/core/providers/category_name_provdier.dart';
+import 'package:food_delivery_app_case_study/config/category_name_provdier.dart';
 import 'package:food_delivery_app_case_study/core/view_models/meals_view_model/meals_view_model.dart';
 import 'package:food_delivery_app_case_study/ui/views/meals/widgets/meal_item_widget.dart';
 import 'package:provider/provider.dart';

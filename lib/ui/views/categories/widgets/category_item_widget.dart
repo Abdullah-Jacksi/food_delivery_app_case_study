@@ -1,9 +1,9 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
-import 'package:food_delivery_app_case_study/core/config/constants/routes.dart';
-import 'package:food_delivery_app_case_study/core/config/functions.dart';
+import 'package:food_delivery_app_case_study/config/functions.dart';
+import 'package:food_delivery_app_case_study/core/constants/routes.dart';
 import 'package:food_delivery_app_case_study/core/models/categories_model.dart';
-import 'package:food_delivery_app_case_study/core/providers/category_name_provdier.dart';
+import 'package:food_delivery_app_case_study/config/category_name_provdier.dart';
 import 'package:food_delivery_app_case_study/ui/utils/styles.dart';
 import 'package:food_delivery_app_case_study/ui/widgets/custom_image.dart';
 import 'package:provider/provider.dart';

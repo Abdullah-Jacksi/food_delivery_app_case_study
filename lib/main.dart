@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
-import 'package:food_delivery_app_case_study/core/config/constants/routes.dart';
-import 'package:food_delivery_app_case_study/core/config/router_config.dart';
-import 'package:food_delivery_app_case_study/core/config/theme/light_theme.dart';
-import 'package:food_delivery_app_case_study/core/providers/category_name_provdier.dart';
+import 'package:food_delivery_app_case_study/config/router_config.dart';
+import 'package:food_delivery_app_case_study/core/constants/routes.dart';
+import 'package:food_delivery_app_case_study/config/category_name_provdier.dart';
 import 'package:food_delivery_app_case_study/core/view_models/cart_view_model/cart_view_model.dart';
 import 'package:food_delivery_app_case_study/core/view_models/categories_view_model/categoires_view_model.dart';
 import 'package:food_delivery_app_case_study/core/view_models/favourite_view_model/favourite_view_model.dart';
 import 'package:food_delivery_app_case_study/core/view_models/meals_view_model/meals_view_model.dart';
-import 'package:food_delivery_app_case_study/locator.dart';
+import 'package:food_delivery_app_case_study/config/locator.dart';
+import 'package:food_delivery_app_case_study/ui/utils/theme/light_theme.dart';
 import 'package:provider/provider.dart';
 
 

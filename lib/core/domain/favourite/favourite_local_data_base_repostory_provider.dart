@@ -4,7 +4,7 @@ import 'package:food_delivery_app_case_study/core/data/categories/api_categories
 import 'package:food_delivery_app_case_study/core/data/favourite/favourite_local_database_repostiry.dart';
 import 'package:food_delivery_app_case_study/core/models/categories_model.dart';
 import 'package:food_delivery_app_case_study/core/models/meals_model.dart';
-import 'package:food_delivery_app_case_study/locator.dart';
+import 'package:food_delivery_app_case_study/config/locator.dart';
 
 class FavouriteLocalDatBaseRepositoryProvider with ChangeNotifier {
 

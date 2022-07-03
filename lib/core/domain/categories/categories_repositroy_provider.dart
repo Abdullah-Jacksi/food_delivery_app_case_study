@@ -3,7 +3,7 @@ import 'dart:developer';
 import 'package:flutter/material.dart';
 import 'package:food_delivery_app_case_study/core/data/categories/api_categories_repository.dart';
 import 'package:food_delivery_app_case_study/core/models/categories_model.dart';
-import 'package:food_delivery_app_case_study/locator.dart';
+import 'package:food_delivery_app_case_study/config/locator.dart';
 
 class CategoriesRepositoryProvider with ChangeNotifier {
 

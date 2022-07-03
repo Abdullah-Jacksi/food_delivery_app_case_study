@@ -9,7 +9,7 @@ import 'package:food_delivery_app_case_study/core/models/categories_model.dart';
 import 'package:food_delivery_app_case_study/core/data/categories/api_categories_repository.dart';
 import 'package:food_delivery_app_case_study/core/models/meals_model.dart';
 import 'package:food_delivery_app_case_study/core/view_models/base_view_model/base.dart';
-import 'package:food_delivery_app_case_study/locator.dart';
+import 'package:food_delivery_app_case_study/config/locator.dart';
 
 class MealsViewModel extends BaseViewModel {
 

@@ -1,5 +1,5 @@
 import 'dart:developer';
-import 'package:food_delivery_app_case_study/core/config/constants/app_constant.dart';
+import 'package:food_delivery_app_case_study/core/constants/app_constant.dart';
 import 'package:food_delivery_app_case_study/core/models/categories_model.dart';
 import 'package:food_delivery_app_case_study/core/data/categories/categories_repository.dart';
 import 'package:http/http.dart' as http;

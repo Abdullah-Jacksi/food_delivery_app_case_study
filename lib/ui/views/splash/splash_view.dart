@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:food_delivery_app_case_study/core/config/constants/routes.dart';
-import 'package:food_delivery_app_case_study/core/config/functions.dart';
+import 'package:food_delivery_app_case_study/config/functions.dart';
+import 'package:food_delivery_app_case_study/core/constants/routes.dart';
 
 class SplashView extends StatefulWidget {
   const SplashView({Key? key}) : super(key: key);

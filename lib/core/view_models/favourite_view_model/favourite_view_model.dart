@@ -2,7 +2,7 @@ import 'package:food_delivery_app_case_study/core/domain/cart/cart_local_data_ba
 import 'package:food_delivery_app_case_study/core/domain/favourite/favourite_local_data_base_repostory_provider.dart';
 import 'package:food_delivery_app_case_study/core/models/meals_model.dart';
 import 'package:food_delivery_app_case_study/core/view_models/base_view_model/base.dart';
-import 'package:food_delivery_app_case_study/locator.dart';
+import 'package:food_delivery_app_case_study/config/locator.dart';
 
 class FavouriteViewModel extends BaseViewModel {
 

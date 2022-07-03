@@ -1,6 +1,6 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/cupertino.dart';
-import 'package:food_delivery_app_case_study/core/config/constants/app_constant.dart';
+import 'package:food_delivery_app_case_study/core/constants/app_constant.dart';
 
 class CustomImage extends StatelessWidget {
   final String image;

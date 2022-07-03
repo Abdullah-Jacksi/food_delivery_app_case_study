@@ -1,7 +1,7 @@
 
 import 'dart:developer';
 
-import 'package:food_delivery_app_case_study/core/config/constants/app_constant.dart';
+import 'package:food_delivery_app_case_study/core/constants/app_constant.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:flutter/foundation.dart';
 
